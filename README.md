@@ -1,6 +1,6 @@
 I'm Dmitry, a software engineer who has spent 15+ years building backends, tinkering with infrastructure, and teaching browsers to behave inside Ruby test suites. These days I scale high-load systems at [The Trade Desk](https://github.com/thetradedesk) and hack on open source the rest of the time.
 
-#### 🚀 What I'm working on
+#### 🚀 Main projects
 
 | | |
 |---|---|
