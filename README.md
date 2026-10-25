@@ -13,8 +13,10 @@ I'm Dmitry, a software engineer who has spent 15+ years building backends, tinke
 
 - [**Poltergeist**](https://github.com/teampoltergeist/poltergeist) — the PhantomJS driver for Capybara, which I co-maintained before Chrome went headless
 - [**Mogrify**](https://github.com/elixir-mogrify/mogrify) — image processing in Elixir via ImageMagick
-- [errgent](https://github.com/route/errgent), [query_trail](https://github.com/route/query_trail), [show_method](https://github.com/route/show_method) — small Ruby tools from an earlier era
-- [cupcake-theme](https://github.com/route/cupcake-theme) and [tomorrow-theme](https://github.com/route/tomorrow-theme) — color schemes for JetBrains IDEs
+
+#### 🤝 Upstream
+
+I've contributed to [Ruby](https://github.com/ruby/ruby), [Rails](https://github.com/rails/rails/pulls?q=is%3Apr+author%3Aroute+is%3Amerged) (20+ merged PRs), [Minitest](https://github.com/minitest/minitest) and [Capybara](https://github.com/teamcapybara/capybara/pulls?q=is%3Apr+author%3Aroute+is%3Amerged).
 
 #### 🧰 Daily toolbox
 
